@@ -26,7 +26,8 @@ GOOGLE_API_KEY=your_api_key_here
 2. Update the prompt inside `zero_shot_prompting.py` (the script currently calls `generate_content("")`) to whatever you want to ask Gemini.
 
 ##output:
-<img width="1295" height="251" alt="image" src="https://github.com/user-attachments/assets/2ed03538-3b35-4dcc-b699-bd0405bfeef0" />
+<img width="1288" height="291" alt="image" src="https://github.com/user-attachments/assets/bd750891-4da5-4368-acb9-081c331b912f" />
+
 
 
 
