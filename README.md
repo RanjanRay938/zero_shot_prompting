@@ -27,8 +27,6 @@ GOOGLE_API_KEY=your_api_key_here
 
 ##output:
 
-
-
 <img width="1288" height="291" alt="image" src="https://github.com/user-attachments/assets/bd750891-4da5-4368-acb9-081c331b912f" />
 
 
